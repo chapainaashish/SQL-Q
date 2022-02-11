@@ -1,0 +1,5 @@
+-- Deadlocks 
+-- deadlock happen when different trancactions can't complete because each transaction hold a log other need
+-- Solutions for deadlock
+--      1. Follow the same order when updating multiple records (code sequentially same)
+--      2. Keep transaction short and small

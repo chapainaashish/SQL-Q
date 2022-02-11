@@ -1,0 +1,3 @@
+-- ANY keyword 
+-- ANY means that the condition will be true if the operation is true for any of the values in the range.
+-- ANY is like OR gate condition return true if atleast one value of range is satisfied
