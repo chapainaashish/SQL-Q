@@ -1,2 +1,2 @@
 # SQL-Tutorial
-A journey through SQL
+A journey through SQL from basic to advance
