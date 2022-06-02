@@ -1,2 +1,2 @@
 # SQL-Tutorial
-A journey through SQL
+A-Z SQL from scratch
